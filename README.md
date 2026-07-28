@@ -158,7 +158,13 @@ pip install -r requirements.txt
 
 # ▶ Running the Project
 
-Launch:-
+Launch the notebook
+
+```bash
+jupyter notebook
+```
+
+or execute
 
 ```bash
 python fps_prediction.py
@@ -196,3 +202,4 @@ Model Comparison
 B.E. Robotics & Artificial Intelligence
 
 Thapar Institute of Engineering and Technology
+
