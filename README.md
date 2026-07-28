@@ -158,13 +158,7 @@ pip install -r requirements.txt
 
 # ▶ Running the Project
 
-Launch the notebook
-
-```bash
-jupyter notebook
-```
-
-or execute
+Launch:-
 
 ```bash
 python fps_prediction.py
